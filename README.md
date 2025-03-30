@@ -53,7 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suyash-vats/suyash-vats/output/snake.svg" alt="Snake animation" />
 
 ###
 
