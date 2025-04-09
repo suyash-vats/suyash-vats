@@ -41,16 +41,7 @@ const suyash = {
 
 ---
 
-### 🧩 Dev Life in Emojis
 
-💻 Coding & Shipping  
-🎧 Lo-fi on repeat  
-📚 Learning fast  
-💡 Exploring new ideas  
-🧠 Thinking in systems  
-🎯 Fixing one bug at a time  
-
----
 
 ### 🏆 GitHub Trophy Wall
 
