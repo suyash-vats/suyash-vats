@@ -1,65 +1,98 @@
-<h2 align="left">Hi 👋! My name is Suyash and I'm a developer from India</h2>
+<!-- 🧠 Hero Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Suyash%20Vats%20🚀&fontSize=38&fontAlignY=40&fontColor=ffffff" />
 
+<!-- 🔥 Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFC2&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+SaaS+Builder+%7C+UI+Lover;Currently+Crafting+Cool+Stuff+with+Next.js+%2B+FastAPI;Java+%7C+MongoDB+%7C+GSAP+%7C+Framer+Motion+FTW" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash-vats&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash-vats&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🤖 A Little Bit About Me
 
-###
+```js
+const suyash = {
+  code: ["JavaScript", "TypeScript", "Java", "Python"],
+  tools: ["React", "Next.js", "FastAPI", "MongoDB", "MySQL"],
+  currentlyBuilding: "Notion Paywall SaaS + Multiplayer Typing Game",
+  loves: ["Clean UI ✨", "Dark Mode 🌑", "Automation 🤖", "Real-Time Stuff ⚡"],
+  location: "📍 Behror, Rajasthan | India",
+  portfolio: "🌐 https://suyashvats.vercel.app"
+};
+```
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMydml4dmw3NHMzc3oya3Vuc2Yyc2FkN2RtYWVwdWtpazl0Zzd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSeWrwDsNdqb6/giphy.gif"  />
+---
 
-###
+### 🧠 Building / Learning Right Now
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="37" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="37" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="37" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
-</div>
+- 🏗️ **SaaS Tool**: Secure Notion Paywall Generator  
+- 🔥 **FastAPI Server**: Stock price prediction from real data  
+- 🎮 **Typing Game**: Multiplayer, socket-powered experience  
+- ✨ Mastering animations with **GSAP** + **Framer Motion**  
+- ☕ Deep-diving into **Java** backend structures  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-</div>
+### 🧰 Tech Toolbox
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,py,mysql,mongodb,linux,git,vercel,figma" />
+</p>
 
-<br clear="both">
+---
 
+### 🧩 Dev Life in Emojis
 
-###
+💻 Coding & Shipping  
+🎧 Lo-fi on repeat  
+📚 Learning fast  
+💡 Exploring new ideas  
+🧠 Thinking in systems  
+🎯 Fixing one bug at a time  
 
-<div align="left">
+---
+
+### 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suyash-vats&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suyash-vats&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🎧 What I’m Listening To
+
+<p align="center">
   <a href="https://open.spotify.com/user/31dp2c7okvvz6k5mcogjxgevvtfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dp2c7okvvz6k5mcogjxgevvtfu&count=2&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dp2c7okvvz6k5mcogjxgevvtfu&count=2&unique=true" width="400"/>
   </a>
-</div>
+</p>
 
-###
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:suyashvats.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/suyashvats"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@suyashvats"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- ⚡ Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  🚀 Fueled by coffee, code & curiosity — let’s build something epic!
+</p>
