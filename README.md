@@ -17,7 +17,7 @@ const suyash = {
   currentlyBuilding: "Notion Paywall SaaS + Multiplayer Typing Game",
   loves: ["Clean UI ✨", "Dark Mode 🌑", "Automation 🤖", "Real-Time Stuff ⚡"],
   location: "📍 Behror, Rajasthan | India",
-  portfolio: "🌐 https://suyashvats.vercel.app"
+  portfolio: "🌐 https://iamsuyash.space"
 };
 ```
 
